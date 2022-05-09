@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="2_shape.xsl" type="text/xsl"?>
+
+    <web>
+        <titulo>🍖 Blog de Cocina</titulo>
+        <nombre> Cocina Fácil</nombre>
+        <encabezado>Bienvenidos a mi blog</encabezado>
+        <descripcion> En este blog se recogen una serie de recetas típicas asturianas</descripcion>
+        
+        <recetario>
+            
+            <receta>
+                <titulo>Fabada Asturiana</titulo>
+                <descripcion>La mejor fabada que puedas comer</descripcion>
+            </receta>
+
+            <receta>
+                <titulo>Cachopo</titulo>
+                <descripcion>Con queso la peral y jamón ibérico</descripcion>
+            </receta>
+
+            <receta>
+                <titulo>Arroz con bugre</titulo>
+                <descripcion>Sabor a Mar Cantábrico</descripcion>
+            </receta>
+            
+            <receta>
+                <titulo>Cebollas rellenas</titulo>
+                <descripcion>Plato tradicional</descripcion>
+            </receta>
+            
+        </recetario>
+    </web>

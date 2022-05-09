@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="1_shape.xsl" type="text/xsl"?>
+
+<web>
+    <titulo>🍖 Blog de Cocina</titulo>
+    <nombre> Cocina Fácil</nombre>
+    <encabezado>Bienvenidos a mi blog</encabezado>
+    <descripcion> En este blog se recogen una serie de recetas típicas asturianas</descripcion>
+</web>

@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding:12px;
+    text-align: center;
+    color: white;
+    background-color: rgb(57, 57, 57);
+}
+#intro,#recetas{
+    max-width: 800px;
+    margin: auto;
+}
+.contenedor-recetas{
+    display: grid;
+    gap: 12px;
+    grid-template-columns: repeat(4, 1fr);
+}
+.receta{
+    border-radius: 8px;
+    padding: 12px;
+    background-color: white;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease-in-out;
+}
+.receta:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 12px 2px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.receta h3{
+    margin-top: 0;
+}
